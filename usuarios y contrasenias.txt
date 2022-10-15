@@ -1,0 +1,11 @@
+Usuario -- contraseña -- perfil
+
+julian----- 1234----- emprendedor
+
+olga------- 1234----- emprendedor
+
+eva-------- 1234----- emprendedor
+
+pablo------ 1234----- empleado
+
+maira-------1234------cliente
